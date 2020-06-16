@@ -1,5 +1,4 @@
 import React from "react";
-import img1 from "../images/testimg.jpeg";
 import Image from "react-bootstrap/Image";
 import saad from '../images/saad2.jpg'
 import waseem from '../images/waseem.jpg'

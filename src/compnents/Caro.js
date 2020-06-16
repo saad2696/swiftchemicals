@@ -30,9 +30,7 @@ export const Caro = () => (
           className="d-block w-100"
           src={opener}
           alt="First slide"
-          style={{ width: 50 }}
-          class="d-block w-100"
-          style={{ opacity: 0.7 }}
+          style={{ opacity: 0.7,width: 50 }}
         />
         <Carousel.Caption style={{ top: 30, paddingTop: 80, color: "black" }}>
           <h3
@@ -57,9 +55,8 @@ export const Caro = () => (
           className="d-block w-100"
           src={img1}
           alt="First slide"
-          style={{ width: 50 }}
-          class="d-block w-100"
-          style={{ opacity: 0.7 }}
+          
+          style={{ opacity: 0.7,width: 50 }}
         />
         <Carousel.Caption style={{ top: 30, paddingTop: 80, color: "black" }}>
           <h3
@@ -87,9 +84,7 @@ export const Caro = () => (
           className="d-block w-100"
           src={img3}
           alt="Third slide"
-          style={{ width: 50 }}
-          class="d-block w-100"
-          style={{ opacity: 0.7 }}
+          style={{ opacity: 0.7,width: 50 }}
         />
 
         <Carousel.Caption style={{ top: 30, paddingTop: 80, color: "black" }}>
@@ -115,9 +110,7 @@ export const Caro = () => (
           className="d-block w-100"
           src={img2}
           alt="Third slide"
-          style={{ width: 50 }}
-          class="d-block w-100"
-          style={{ opacity: 0.6 }}
+          style={{ opacity: 0.7,width: 50 }}
         />
 
         <Carousel.Caption style={{ top: 30, paddingTop: 80, color: "black" }}>

@@ -1,5 +1,4 @@
 import React from "react";
-import team from "../routes/team";
 import imghome from '../images/homepg.jpg'
 export const home = () => (
     <div>
@@ -28,7 +27,7 @@ export const home = () => (
     
   </div>
   <div style={{ alignContent:"center", paddingTop:15, paddingLeft: 50}}>
-        <img  style={{  objectFit:"cover" ,float:"left",width:"375px",height:"270px", paddingLeft:19, paddingTop:20}}src={imghome}/>
+        <img  style={{  objectFit:"cover" ,float:"left",width:"375px",height:"270px", paddingLeft:19, paddingTop:20}}src={imghome} alt="image1"/>
     </div>
   </div>
 );
