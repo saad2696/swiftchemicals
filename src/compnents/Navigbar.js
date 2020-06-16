@@ -2,6 +2,7 @@ import React from "react";
 import { Nav, Navbar } from "react-bootstrap";
 import styled from "styled-components";
 import logo from "../images/swiftlogo.png";
+import {Link} from 'react-router-dom'
 
 const Styles = styled.div`
   .navbar {
@@ -23,13 +24,13 @@ export const Navigbar = () => (
         <div>
           <img
             src={logo}
-            style={{ width:60, borderRadius: 50 }}
+            style={{ width: 60, borderRadius: 50 }}
             class="img-responsive"
             alt="logo"
           />
         </div>
       </Navbar.Brand>
-      <Navbar.Brand href="/" style={{ fontSize: 25}}>
+      <Navbar.Brand href="/" style={{ fontSize: 25 }}>
         {" "}
         <strong>Swift Chemicals</strong>{" "}
       </Navbar.Brand>
@@ -37,18 +38,34 @@ export const Navigbar = () => (
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="ml-auto">
           <Nav.Item>
-            <Nav.Link href="/" style={{ paddingRight:30}}>Home</Nav.Link>
+            <Nav.Link >
+              <Link  style={{ padding: 25 , color:"white"}} to="/">
+                Home
+              </Link>
+            </Nav.Link>
           </Nav.Item>
 
           <Nav.Item>
-            <Nav.Link href="/service" style={{ paddingRight:30}} >Services</Nav.Link>
+            <Nav.Link  >
+              <Link  style={{ paddingRight: 30 , color:"white"}} to="/service">
+                Services
+              </Link>
+            </Nav.Link>
           </Nav.Item>
 
           <Nav.Item>
-            <Nav.Link href="/team" style={{ paddingRight:30}}>Our Team</Nav.Link>
+            <Nav.Link >
+              <Link style={{ paddingRight: 30 , color:"white"}} to="/team">
+                Our Team
+              </Link>
+            </Nav.Link>
           </Nav.Item>
           <Nav.Item>
-            <Nav.Link href="/contact" style={{ paddingRight:20}}>Contact</Nav.Link>
+            <Nav.Link >
+              <Link  style={{ paddingRight: 20,color:"white" }} to="/contact">
+                Contact
+              </Link>
+            </Nav.Link>
           </Nav.Item>
         </Nav>
       </Navbar.Collapse>
