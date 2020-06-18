@@ -19,7 +19,7 @@ export const home = () => (
       <br />
       Whether it is printing inks, cost effective dilutes, over print varnishes,
       adhesives , plastic films or
-      <br /> rotogravure cylinders all will be provided as one window operation.Our professionals crew, with <br/> hand-on experience 
+      <br /> rotogravure cylinders, all will be provided in our one window operation.Our professional crew, with <br/> hand-on experience 
       will be obliged to serve you!
       
     </div>
