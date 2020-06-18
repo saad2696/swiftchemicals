@@ -1,9 +1,9 @@
 import React from "react";
 import ink from "../images/inkind.jpg"
-import film from "../images/film.jpg"
+import film from "../images/petfilm.jpg"
 import print from "../images/print.jpg"
 import gcylinder from "../images/gcy.jpeg"
-import ad from "../images/ad.jpg"
+import ad from "../images/adhe.jpg"
 
 import { Card, ListGroupItem, ListGroup } from "react-bootstrap";
 
@@ -11,7 +11,7 @@ export const service = () => (
   <div style={{ padding: 60 }}>
     <div style={{ padding: 10, float: "left" }}>
       <Card style={{ width: "18rem" }}>
-        <Card.Img variant="top" src={ink} style={{}} />
+        <Card.Img variant="top"  style={{height:220}} src={ink} />
         <Card.Body>
           <Card.Title style={{ textAlign: "center" }}>Ink Industry</Card.Title>
           <Card.Text>
@@ -78,7 +78,7 @@ export const service = () => (
 
     <div style={{ padding: 10, float: "left" }}>
       <Card style={{ width: "18rem" }}>
-        <Card.Img variant="top" src={print} />
+        <Card.Img variant="top" style={{height:220}} src={print} />
         <Card.Body>
           <Card.Title style={{ textAlign: "center" }}>
             Press and Printing Industry
@@ -96,7 +96,7 @@ export const service = () => (
     </div>
     <div style={{ padding: 10, clear: "both" }}>
       <Card style={{ width: "18rem" }}>
-        <Card.Img variant="top" src={gcylinder} />
+        <Card.Img variant="top"  style={{height:220}} src={gcylinder} />
         <Card.Body>
           <Card.Title style={{ textAlign: "center" }}>
             Rotogravure Cylinders

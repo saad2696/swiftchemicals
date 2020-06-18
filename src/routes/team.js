@@ -18,6 +18,23 @@ export const team = () => (
         <strong>OUR TEAM</strong>
       </div>
     </div>
+    <div style={{textAlign:"center", paddingTop:20 , fontSize:20}}>
+     <strong> A Highly trained Pofessional Crew in all Relevant Product Line will Be at your Door Step! </strong>
+    </div>
+    <div
+        className="titleteam"
+        style={{
+          fontSize: 25,
+          color: "#1949ad",
+          textAlign:"center",
+         
+          
+          paddingLeft:30,
+          paddingTop: 20
+        }}
+      >
+        <strong>Managing Team:</strong>
+      </div>
 <div style={{padding:15}}>
 <div
       className="imagewrap"

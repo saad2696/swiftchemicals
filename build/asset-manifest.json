@@ -1,26 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.106effe9.chunk.css",
-    "main.js": "/static/js/main.e96fd4b2.chunk.js",
-    "main.js.map": "/static/js/main.e96fd4b2.chunk.js.map",
+    "main.js": "/static/js/main.613b1db2.chunk.js",
+    "main.js.map": "/static/js/main.613b1db2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a81ebef7.js",
     "runtime-main.js.map": "/static/js/runtime-main.a81ebef7.js.map",
     "static/css/2.e6f51e71.chunk.css": "/static/css/2.e6f51e71.chunk.css",
     "static/js/2.20fa59af.chunk.js": "/static/js/2.20fa59af.chunk.js",
     "static/js/2.20fa59af.chunk.js.map": "/static/js/2.20fa59af.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1eec6b6f7366b641d522ac93025aef72.js": "/precache-manifest.1eec6b6f7366b641d522ac93025aef72.js",
+    "precache-manifest.53bbab52d31e5c84f293cb70b79f6fca.js": "/precache-manifest.53bbab52d31e5c84f293cb70b79f6fca.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.e6f51e71.chunk.css.map": "/static/css/2.e6f51e71.chunk.css.map",
     "static/css/main.106effe9.chunk.css.map": "/static/css/main.106effe9.chunk.css.map",
     "static/js/2.20fa59af.chunk.js.LICENSE.txt": "/static/js/2.20fa59af.chunk.js.LICENSE.txt",
-    "static/media/ad.jpg": "/static/media/ad.a285359d.jpg",
     "static/media/felxo-inks.jpg": "/static/media/felxo-inks.12990617.jpg",
-    "static/media/film.jpg": "/static/media/film.8fc59baa.jpg",
     "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/gcy.jpeg": "/static/media/gcy.a3f76e60.jpeg",
     "static/media/homepg.jpg": "/static/media/homepg.48a4a964.jpg",
     "static/media/inkind.jpg": "/static/media/inkind.3586ee57.jpg",
+    "static/media/petfilm.jpg": "/static/media/petfilm.6956cc5b.jpg",
     "static/media/pic1.jpeg": "/static/media/pic1.fa73b787.jpeg",
     "static/media/print.jpg": "/static/media/print.c83e0472.jpg",
     "static/media/printer.jpeg": "/static/media/printer.68b1ff68.jpeg",
@@ -34,6 +33,6 @@
     "static/css/2.e6f51e71.chunk.css",
     "static/js/2.20fa59af.chunk.js",
     "static/css/main.106effe9.chunk.css",
-    "static/js/main.e96fd4b2.chunk.js"
+    "static/js/main.613b1db2.chunk.js"
   ]
 }

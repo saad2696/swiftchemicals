@@ -13,16 +13,15 @@ export const home = () => (
       Swift Chemical Company, established with an ultimate objective to serve
       the printing and coating industry
       <br /> by catering basic needs of industry under one umbrella. With
-      experience of three decades, we have
-      <br /> gathered approved products best suited for your business
+      experience of more than three decades,<br/> we have gathered approved products best suited for your business
       requirements.
       <br />
       <br />
       Whether it is printing inks, cost effective dilutes, over print varnishes,
       adhesives , plastic films or
-      <br /> rotogravure cylinders. Our professionals, with hand-on experience
-      will always be availaible at your
-      <br /> disposal.
+      <br /> rotogravure cylinders all will be provided as one window operation.Our professionals crew, with <br/> hand-on experience 
+      will be obliged to serve you!
+      
     </div>
     
   </div>

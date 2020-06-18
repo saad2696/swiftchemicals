@@ -71,7 +71,7 @@ export const Caro = () => (
             <strong>
               <i>
                 <q>
-                  Cost Effective Ink Diluent, Machine Cleaning Solvents and
+                  Cost Effective Ink Diluent, Machine Cleaning Solvents with High Performance
                   Adhesives!
                 </q>
               </i>
