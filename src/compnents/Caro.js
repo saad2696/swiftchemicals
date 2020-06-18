@@ -53,6 +53,35 @@ export const Caro = () => (
       <Carousel.Item>
         <img
           className="d-block w-100"
+          src={img2}
+          alt="Third slide"
+          style={{ opacity: 0.7,width: 50 }}
+        />
+
+        <Carousel.Caption style={{ top: 30, paddingTop: 80, color: "black" }}>
+          <h3
+            style={{
+              WebkitTextStrokeWidth: "2px",
+              WebkitTextStrokeColor: "black",
+              fontfamily: "Garamond",
+              fontSize: 45,
+              color: "#ffffff",
+            }}
+          >
+            <strong>
+              <i>
+                <q>
+                  Sourcing Highest Quailty of Felxo, Roto Inks and Rotogravune
+                  Cylinders!
+                </q>
+              </i>
+            </strong>
+          </h3>
+        </Carousel.Caption>
+      </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block w-100"
           src={img1}
           alt="First slide"
           
@@ -99,41 +128,13 @@ export const Caro = () => (
           >
             <strong>
               <i>
-                <q>Sourcing Offset Printing Inks Local or Imported!</q>
+                <q>Sourcing Offset Inks & Metal Packaging Materials Local / Imported!</q>
               </i>
             </strong>
           </h3>
         </Carousel.Caption>
       </Carousel.Item>
-      <Carousel.Item>
-        <img
-          className="d-block w-100"
-          src={img2}
-          alt="Third slide"
-          style={{ opacity: 0.7,width: 50 }}
-        />
-
-        <Carousel.Caption style={{ top: 30, paddingTop: 80, color: "black" }}>
-          <h3
-            style={{
-              WebkitTextStrokeWidth: "2px",
-              WebkitTextStrokeColor: "black",
-              fontfamily: "Garamond",
-              fontSize: 45,
-              color: "#ffffff",
-            }}
-          >
-            <strong>
-              <i>
-                <q>
-                  Sourcing Highest Quailty of Felxo, Roto Inks and Rotogravune
-                  Cylinders!
-                </q>
-              </i>
-            </strong>
-          </h3>
-        </Carousel.Caption>
-      </Carousel.Item>
+     
     </Carousel>
   </Styles>
 );

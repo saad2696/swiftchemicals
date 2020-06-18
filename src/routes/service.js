@@ -1,17 +1,17 @@
 import React from "react";
-import ink from "../images/inkind.jpg"
-import film from "../images/petfilm.jpg"
-import print from "../images/print.jpg"
-import gcylinder from "../images/gcy.jpeg"
-import ad from "../images/adhe.jpg"
+import ink from "../images/inkind.jpg";
+import film from "../images/petfilm.jpg";
+
+import gcylinder from "../images/cyclinder.JPG";
+import ad from "../images/adhe.jpg";
 
 import { Card, ListGroupItem, ListGroup } from "react-bootstrap";
 
 export const service = () => (
-  <div style={{ padding: 60 }}>
+  <div style={{ padding: 70 }}>
     <div style={{ padding: 10, float: "left" }}>
       <Card style={{ width: "18rem" }}>
-        <Card.Img variant="top"  style={{height:220}} src={ink} />
+        <Card.Img variant="top" style={{ height: 220 }} src={ink} />
         <Card.Body>
           <Card.Title style={{ textAlign: "center" }}>Ink Industry</Card.Title>
           <Card.Text>
@@ -26,7 +26,9 @@ export const service = () => (
           <ListGroupItem>3) High Quailty Ink Dilutes.</ListGroupItem>
         </ListGroup>
         <Card.Body>
-          <Card.Link  style={{color:"#1949ad"}} href="#">Show More</Card.Link>
+          <Card.Link style={{ color: "#1949ad" }} href="#">
+            Show More
+          </Card.Link>
         </Card.Body>
       </Card>
     </div>
@@ -50,13 +52,15 @@ export const service = () => (
           </ListGroupItem>
         </ListGroup>
         <Card.Body>
-          <Card.Link style={{color:"#1949ad"}} href="#">Show More</Card.Link>
+          <Card.Link style={{ color: "#1949ad" }} href="#">
+            Show More
+          </Card.Link>
         </Card.Body>
       </Card>
     </div>
     <div style={{ padding: 10, float: "left" }}>
       <Card style={{ width: "18rem" }}>
-        <Card.Img variant="top" src={film} />
+        <Card.Img variant="top" style={{ height: 220}} src={film} />
         <Card.Body>
           <Card.Title style={{ textAlign: "center" }}>
             Film and Coating Industry
@@ -71,32 +75,16 @@ export const service = () => (
           <ListGroupItem>Best Quailty Local Films in Market</ListGroupItem>
         </ListGroup>
         <Card.Body>
-          <Card.Link  style={{color:"#1949ad"}} href="#">Show More</Card.Link>
+          <Card.Link style={{ color: "#1949ad" }} href="#">
+            Show More
+          </Card.Link>
         </Card.Body>
       </Card>
     </div>
 
-    <div style={{ padding: 10, float: "left" }}>
+    <div style={{ padding: 10 }}>
       <Card style={{ width: "18rem" }}>
-        <Card.Img variant="top" style={{height:220}} src={print} />
-        <Card.Body>
-          <Card.Title style={{ textAlign: "center" }}>
-            Press and Printing Industry
-          </Card.Title>
-        </Card.Body>
-        <ListGroup className="list-group-flush">
-          <ListGroupItem>
-            Pre-Press axlleries for sheet fed offest printings
-          </ListGroupItem>
-        </ListGroup>
-        <Card.Body>
-          <Card.Link style={{color:"#1949ad"}} href="#">Show More</Card.Link>
-        </Card.Body>
-      </Card>
-    </div>
-    <div style={{ padding: 10, clear: "both" }}>
-      <Card style={{ width: "18rem" }}>
-        <Card.Img variant="top"  style={{height:220}} src={gcylinder} />
+        <Card.Img variant="top" style={{ height: 220 }} src={gcylinder} />
         <Card.Body>
           <Card.Title style={{ textAlign: "center" }}>
             Rotogravure Cylinders
@@ -108,7 +96,9 @@ export const service = () => (
           </ListGroupItem>
         </ListGroup>
         <Card.Body>
-          <Card.Link style={{color:"#1949ad"}} href="#">Show More</Card.Link>
+          <Card.Link style={{ color: "#1949ad" }} href="#">
+            Show More
+          </Card.Link>
         </Card.Body>
       </Card>
     </div>

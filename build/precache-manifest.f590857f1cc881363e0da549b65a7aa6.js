@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "886d5daabc9de04c23e2ff58f3154778",
+    "revision": "d8ab981f13613c4c581ffdfc6441d37e",
     "url": "/index.html"
   },
   {
-    "revision": "dc4286d8104d7cadc413",
+    "revision": "9b5b10c04cdff0427f78",
     "url": "/static/css/2.e6f51e71.chunk.css"
   },
   {
-    "revision": "8a370c106660be747303",
+    "revision": "bd9867bc95a653826a05",
     "url": "/static/css/main.106effe9.chunk.css"
   },
   {
-    "revision": "dc4286d8104d7cadc413",
-    "url": "/static/js/2.20fa59af.chunk.js"
+    "revision": "9b5b10c04cdff0427f78",
+    "url": "/static/js/2.be4a48b3.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.20fa59af.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.be4a48b3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8a370c106660be747303",
-    "url": "/static/js/main.613b1db2.chunk.js"
+    "revision": "bd9867bc95a653826a05",
+    "url": "/static/js/main.0885e14a.chunk.js"
   },
   {
     "revision": "b35897691b1089d43a2c",
     "url": "/static/js/runtime-main.a81ebef7.js"
+  },
+  {
+    "revision": "eb793a841afb5f6237bbbd4f72eb7a16",
+    "url": "/static/media/cyclinder.eb793a84.JPG"
   },
   {
     "revision": "12990617d5afd67d5c711f35dfe86b95",
@@ -52,10 +56,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "a3f76e60c3d172ff89d11f4bb938554f",
-    "url": "/static/media/gcy.a3f76e60.jpeg"
-  },
-  {
     "revision": "48a4a9642d98924c2d1dc4dabac680db",
     "url": "/static/media/homepg.48a4a964.jpg"
   },
@@ -70,10 +70,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fa73b787d087c707333c31ec1dbbae1c",
     "url": "/static/media/pic1.fa73b787.jpeg"
-  },
-  {
-    "revision": "c83e0472798b87ab7e55fd394d18b794",
-    "url": "/static/media/print.c83e0472.jpg"
   },
   {
     "revision": "68b1ff68132c4f8d170f7a937c9f5eeb",
