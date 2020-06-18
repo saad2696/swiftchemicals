@@ -19,7 +19,7 @@ export const team = () => (
       </div>
     </div>
     <div style={{textAlign:"center", paddingTop:20 , fontSize:20}}>
-     <strong> A Highly trained Pofessional Crew in all Relevant Product Line will Be at your Door Step! </strong>
+     <strong>Highly trained Pofessional Crew in all Relevant Product Line will Be at your Door Step! </strong>
     </div>
     <div
         className="titleteam"
