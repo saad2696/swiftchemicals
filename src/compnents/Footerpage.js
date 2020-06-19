@@ -22,8 +22,8 @@ export const Footerpage = () => {
           <div className="col">
             <h4>Contact Through Email <i class="far fa-envelope"></i></h4>
             <ul className="list-unstyled" style={{paddingLeft:29}} >
-              <li>swiftchemicals.co@gmail.com</li>
-              <li>saad.ahmed2696@gmail.com </li>
+              <li>waseemahmad@swiftchemicals.co</li>
+              <li>saadahmed@swiftchemicals.co </li>
             </ul>
           </div>
           {/* col3 */}
