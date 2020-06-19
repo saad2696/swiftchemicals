@@ -78,8 +78,8 @@ export const contact = () => (
             Email Us <i class="fas fa-envelope"></i>:
           </div>
           <div className="tele-content">
-            1) swiftchemicals.co@gmail.com <br />
-            2) saad.ahmed2696@gmail.com
+            1) waseemahmad@swiftchemicals.co <br />
+            2) saadahmed@swiftchemicals.co
             <br/> <h4 style={{color:"#f1f2f6"}}>3) Landline: 092-42-35225086</h4>
             
           </div>
